@@ -3,7 +3,7 @@
 ## Full Stack developer | Estudiante | Universidad del Desarrollo
 
 
-- 👩‍🏫 I am currently studying Full Stack web development at Universidad del Desallollo.
+- 👩‍🏫 I am currently studying Full Stack web development at Universidad del Desarrollo.
 
 
 ### 🧑‍💻 SKILL
